@@ -1,0 +1,23 @@
+{
+  "name": "jstranslate",
+  "version": "0.1.0",
+  "description": "A simple JSON translator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [
+    "translator",
+    "json",
+    "translation",
+    "localization"
+  ],
+  "author": "Yigit Kaan Korkmaz",
+  "license": "ISC",
+  "volta": {
+    "node": "18.8.0"
+  },
+  "dependencies": {
+    "puppeteer": "^17.1.0"
+  }
+}
